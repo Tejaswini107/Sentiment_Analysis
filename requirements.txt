@@ -1,0 +1,6 @@
+
+```text
+pandas
+textblob
+matplotlib
+seaborn
