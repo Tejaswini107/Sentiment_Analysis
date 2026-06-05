@@ -54,8 +54,9 @@ The project includes:
 ```bash
 pip install -r requirements.txt
 
-jupyter notebook analysis.ipynb
+jupyter notebook analysis.ipynb 
 
+```
 ## Future Improvements
 - Use machine learning or deep learning models for more accurate sentiment classification.
 - Include TF-IDF or word embeddings for text representation.
